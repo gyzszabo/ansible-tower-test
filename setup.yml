@@ -3,5 +3,5 @@
   tasks:
     - name: Collect all data
       setup:
-	    gather_subset:
+        gather_subset:
           - all
