@@ -1,3 +1,4 @@
+---
 - name: Set up static IP address
   win_shell: "Get-NetIpAddress -InterfaceAlias 'Ethernet' | New-NetIpAddress -IpAddress 192.168.1.120 -PrefixLength 24 -DefaultGateway 192.168.1.1"
   async: 100 # Using "fire-and-forget" asynchronous execution for this task, otherwise it will always fail and timeout
