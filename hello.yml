@@ -1,3 +1,4 @@
+---
 - name: Hello World Test
   hosts: all
   tasks:
