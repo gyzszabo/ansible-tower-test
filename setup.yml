@@ -2,6 +2,4 @@
   hosts: all
   tasks:
     - name: Collect all data
-      setup:
-        gather_subset:
-          - all
+      setup
