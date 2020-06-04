@@ -1,0 +1,16 @@
+---
+- name: VMWare Object Deletion
+  gather_facts: False
+  vars_files:
+    - vcenter_vars.yml
+  hosts: localhost
+  tasks:
+    - name: Poweroff virtual machine name {{ vm_name }}
+      vmware_guest_powerstate:
+        name: "{{ vm_name }}"
+        hostname: "{{ vcenter_server }}"
+        username: "{{ vcenter_user }}"
+        password: "{{ vcenter_pass }}"
+        validate_certs: False
+        folder: "{{ folder }}"
+        state: powered-off
