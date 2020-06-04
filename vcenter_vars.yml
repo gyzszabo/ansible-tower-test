@@ -10,11 +10,11 @@
 - esxi_password: esxi123
 
 # VM settings
-- vm_name: gyzszaboW207
+- vm_name: gyzszaboW208
 - template_name: gyzszaboW200
 - datastore: sfo01-m01-vsan
 - network: vm-vl340
-- net_ip: 145.6.109.207
+- net_ip: 145.6.109.208
 - net_mask: 255.255.255.0
 - net_gw: 145.6.109.1
 - folder: /gyzszabo/
