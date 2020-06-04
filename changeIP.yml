@@ -1,18 +1,19 @@
 ---
 - name: Set up static IP address
-  win_shell: "Get-NetIpAddress -InterfaceAlias 'Ethernet' | New-NetIpAddress -IpAddress 192.168.1.120 -PrefixLength 24 -DefaultGateway 192.168.1.1"
+  hosts: gyzszaboW20X
+  win_shell: "Get-NetIpAddress -InterfaceAlias 'Ethernet' | New-NetIpAddress -IpAddress 145.6.109.206 -PrefixLength 24 -DefaultGateway 145.6.109.1"
   async: 100 # Using "fire-and-forget" asynchronous execution for this task, otherwise it will always fail and timeout
   poll: 0
 
 - name: Change ansible's ip address for each host
   set_fact:
-    ansible_host: "192.168.1.120"
+    ansible_host: "145.6.109.206"
 
 - name: Wait for the hosts network interface to come back up
   local_action:
     module: wait_for
     host: "{{ ansible_host }}"
-    port: 5985
+    port: 5986
     delay: 10
     state: started
   register: wait_result
