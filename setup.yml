@@ -1,6 +1,6 @@
 ---
 - name: Setup test
-  hosts: all
+  hosts: gyzszaboW20X
   tasks:
     - name: Collect all data
       setup:
