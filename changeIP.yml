@@ -1,7 +1,7 @@
 ---
 - name: After create VM from template change IP from 200 to 206
   hosts: gyzszaboW20X
-  task:
+  tasks:
     - name: Set up static IP address
       win_shell: "Get-NetIpAddress -InterfaceAlias 'Ethernet' | New-NetIpAddress -IpAddress 145.6.109.206 -PrefixLength 24 -DefaultGateway 145.6.109.1"
       async: 100 # Using "fire-and-forget" asynchronous execution for this task, otherwise it will always fail and timeout
