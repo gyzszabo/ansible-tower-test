@@ -1,8 +1,6 @@
 ---
 # Global Settings
 - vcenter_server: 145.6.129.233
-- vcenter_user: administrator@vsphere.local
-- vcenter_pass: Passw0rd123!
 - datacenter: sfo01-m01-dc
 - cluster: sfo01-m01-mgmt01
 
