@@ -3,7 +3,7 @@
   gather_facts: no
   vars_files:
     - vcenter_vars.yml
-  hosts: localhost
+  hosts: all
   tasks:
     - name: Clone a virtual machine {{ vm_name }} from existing template {{ template_name }}
       vmware_guest:
