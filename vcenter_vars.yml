@@ -1,6 +1,8 @@
 ---
 # Global Settings
 - vcenter_server: 145.6.129.233
+#- vcenter_user: 
+#- vcenter_pass: 
 - datacenter: sfo01-m01-dc
 - cluster: sfo01-m01-mgmt01
 
@@ -10,15 +12,19 @@
 - esxi_password: esxi123
 
 # VM settings
-- vm_name: gyzszaboW208
+- vm_name: gyzszaboW206
 - template_name: gyzszaboW20X
 - datastore: sfo01-m01-vsan
 - network: vm-vl340
-- net_ip: 145.6.109.208
+- net_ip: 145.6.109.206
 - net_mask: 255.255.255.0
 - net_gw: 145.6.109.1
 - folder: /gyzszabo/
 - dns_server: 10.127.227.4
+- domain: osseng.local
+#- adminname: 
+#- adminpasswd: 
+#- domainadmin: 
+#- domainadminpassword: 
+- joindomain: osseng.local
 
-# Snapshot settings
-- snapshot: fresh_installation
