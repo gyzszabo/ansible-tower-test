@@ -14,8 +14,6 @@
         name: "{{ vm_name }}"
         template: "{{ template_name }}"
         hostname: "{{ vcenter_server }}"
-        username: "{{ vcenter_user }}"
-        password: "{{ vcenter_pass }}"
         validate_certs: no
         folder: "{{ folder }}"
         datacenter: "{{ datacenter }}"
