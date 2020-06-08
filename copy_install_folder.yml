@@ -1,0 +1,15 @@
+---
+- hosts: gyzszaboW206
+  gather_facts: no
+  tasks:
+    - win_copy:
+        src: '\\145.6.129.218\ShareFolder\SQLEXPRADV_x64_ENU\'
+        dest: 'c:\Temp\SQLEXPRADV_x64_ENU\'
+        remote_src: True
+      become: yes
+      become_method: runas
+      become_flags: logon_type=new_credentials logon_flags=netcredentials_only
+      vars:
+        ansible_become_user: "{{ osseng_domain_adminname }}"
+        ansible_become_pass: "{{ osseng_domain_adminpassw }}"
+
