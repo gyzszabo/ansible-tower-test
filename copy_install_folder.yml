@@ -10,6 +10,10 @@
       become_method: runas
       become_flags: logon_type=new_credentials logon_flags=netcredentials_only
       vars:
-        ansible_become_user: "{{ osseng_domain_adminname }}"
-        ansible_become_pass: "{{ osseng_domain_adminpassw }}"
+        ansible_become_user: osseng.local\gyozo.szabo-a
+        ansible_become_pass: Krumpli45
+
+
+#        ansible_become_user: "{{ osseng_domain_adminname }}"
+#        ansible_become_pass: "{{ osseng_domain_adminpassw }}"
 
