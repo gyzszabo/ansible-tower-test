@@ -1,0 +1,12 @@
+---
+- hosts: gyzszaboW{{ BIG_number }}
+  gather_facts: no
+  tasks:
+    - name: Install SSMS (be patient. This can take 20-30 minutes to complete.)
+      win_package:
+        path: "C:\\Temp\\SQLEXPRADV_x64_ENU\\SSMS-Setup-ENU.exe"
+        product_id: '{4A144470-B2E3-4614-8AAC-370A0C80C919}'
+        arguments: /install /quiet /passive /norestart
+
+    - name: Reboot the machine(s)
+      win_reboot:
