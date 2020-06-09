@@ -13,10 +13,10 @@
         path: "C:\\Temp\\SQLEXPRADV_x64_ENU\\1033_ENU_LP\\redist\\VisualStudioShell\\SMO\\SharedManagementObjects.msi"
         state: present
 
-    - name: SQL - Create Local SQL User
+    - name: SQL - Create Local SQL User "{{ sqluser }}{{ BIG_number }}"
       win_user:
-        name: {{ sqluser }}{{ BIG_number }}
-        password: {{ sqlpassw }}
+        name: "{{ sqluser }}{{ BIG_number }}"
+        password: "{{ sqlpassw }}"
         password_never_expires: yes
         state: present
         groups:
