@@ -1,0 +1,10 @@
+---
+- hosts: gyzszaboW{{ BIG_number }}
+  gather_facts: no
+  tasks:
+  - name: Add a local and domain user to a local group
+      win_group_membership:
+      name: '{{  }}'
+      members:
+        - '{{  }}'
+    state: present
