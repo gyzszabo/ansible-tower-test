@@ -1,6 +1,11 @@
 ---
 - hosts: gyzszaboW{{ BIG_number }}
+
   gather_facts: no
+
+  vars_files:
+    - ultimate_vars.yml
+    
   tasks:
     - name: Get MSSQL port for {{ sqlins }}
       win_reg_stat:
@@ -10,7 +15,7 @@
       win_regedit:
         path: HKLM:\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL13.INS01\MSSQLServer\SuperSocketNetLib\Tcp\IPAll
         name: TcpPort
-        data: {{ sqlport }}
+        data: '{{ sqlport }}'
         type: string
 
     - name: Restart SQL
