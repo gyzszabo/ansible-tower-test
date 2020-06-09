@@ -1,0 +1,53 @@
+---
+- hosts: gyzszaboW{{ BIG_number }}
+  gather_facts: no
+  tasks:
+    - name: Pre - Install System CLR Types
+      win_package:
+        path: "C:\\Temp\\SQLEXPRADV_x64_ENU\\1033_ENU_LP\\redist\\VisualStudioShell\\SQLSysClrTypes\\SQLSysClrTypes.msi"
+        state: present
+
+
+    - name: Pre - Install Shared management objects
+      win_package:
+        path: "C:\\Temp\\SQLEXPRADV_x64_ENU\\1033_ENU_LP\\redist\\VisualStudioShell\\SMO\\SharedManagementObjects.msi"
+        state: present
+
+    - name: SQL - Create Local SQL User
+      win_user:
+        name: {{ sqluser }}{{ BIG_number }}
+        password: {{ sqlpassw }}
+        password_never_expires: yes
+        state: present
+        groups:
+          - Users
+
+    - name: SQL - Install SQL Express
+      win_package:
+       path: "C:\\Temp\\SQLEXPRADV_x64_ENU\\Setup.exe"
+       product_id: SQL Express
+       arguments:
+       - '/q'
+       - '/ACTION=Install'
+       - '/IACCEPTSQLSERVERLICENSETERMS'
+       - '/FEATURES=SQL'
+       - '/INSTANCENAME='{{ sqlins }}
+       - '/SQLSVCACCOUNT='{{ sqluser }}{{ BIG_number }}
+       - '/SQLSVCPASSWORD='{{ sqlpassw }}
+       - '/SECURITYMODE=SQL'
+       - '/SAPWD='{{ sqlpassw }}
+       - '/ADDCURRENTUSERASSQLADMIN'
+       - '/UPDATEENABLED=0'
+       - '/TCPENABLED=1'
+       - '/NPENABLED=1'
+
+    - name: Get MSSQL port for {{ sqlins }}
+      win_reg_stat:
+        path: HKLM:\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL13.INS01\MSSQLServer\SuperSocketNetLib\Tcp\IPAll
+
+    - name: Set static ({{ sqlport }}) MSSQL port for {{ sqlins }}
+      win_regedit:
+        path: HKLM:\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL13.INS01\MSSQLServer\SuperSocketNetLib\Tcp\IPAll
+        name: TcpPort
+        data: {{ sqlport }}
+        type: string
