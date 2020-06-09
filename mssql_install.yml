@@ -54,5 +54,5 @@
       win_regedit:
         path: HKLM:\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL13.INS01\MSSQLServer\SuperSocketNetLib\Tcp\IPAll
         name: TcpPort
-        data: {{ sqlport }}
+        data: '{{ sqlport }}'
         type: string
