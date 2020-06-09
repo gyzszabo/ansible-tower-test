@@ -6,11 +6,6 @@
 - datacenter: sfo01-m01-dc
 - cluster: sfo01-m01-mgmt01
 
-# ESXi settings
-- esxi_hostname: 10.76.33.6
-- esxi_username: root
-- esxi_password: esxi123
-
 # VM settings
 - vm_name: gyzszaboW
 - template_name: gyzszaboW20X
@@ -27,4 +22,9 @@
 #- domainadmin: 
 #- domainadminpassword: 
 - joindomain: osseng.local
+
+# SQL setting
+- sqlins: ins01
+- sqlport: 12345
+
 
