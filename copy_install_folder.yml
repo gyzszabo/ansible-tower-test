@@ -1,5 +1,5 @@
 ---
-- hosts: gyzszaboW206
+- hosts: gyzszaboW{{BIG_number}}
   gather_facts: no
   tasks:
     - win_copy:
