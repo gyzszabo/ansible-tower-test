@@ -1,6 +1,11 @@
 ---
 - hosts: gyzszaboW{{ BIG_number }}
+
   gather_facts: no
+
+  vars_files:
+    - ultimate_vars.yml
+ 
   tasks:
     - name: Pre - Install System CLR Types
       win_package:
