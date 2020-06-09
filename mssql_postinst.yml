@@ -1,0 +1,18 @@
+---
+- hosts: gyzszaboW{{ BIG_number }}
+  gather_facts: no
+  tasks:
+    - name: Get MSSQL port for {{ sqlins }}
+      win_reg_stat:
+        path: HKLM:\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL13.INS01\MSSQLServer\SuperSocketNetLib\Tcp\IPAll
+
+    - name: Set static ({{ sqlport }}) MSSQL port for INS01
+      win_regedit:
+        path: HKLM:\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL13.INS01\MSSQLServer\SuperSocketNetLib\Tcp\IPAll
+        name: TcpPort
+        data: {{ sqlport }}
+        type: string
+
+    - name: Restart SQL
+      win_service:
+        name: MSSQL${{ sqlins }}
