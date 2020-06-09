@@ -9,7 +9,7 @@
   hosts: localhost
 
   tasks:
-    - name: Clone a virtual machine {{ vm_name }} from existing template {{ template_name }}
+    - name: Clone a virtual machine {{ vm_name }}{{BIG_number}} from existing template {{ template_name }}
       vmware_guest:
         name: "{{ vm_name }}{{BIG_number}}"
         template: "{{ template_name }}"
