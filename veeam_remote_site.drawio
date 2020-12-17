@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T11:52:48.079Z" agent="5.0 (Windows)" etag="oEl8uzTt5T0IEb9Ok8hB" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T11:56:51.527Z" agent="5.0 (Windows)" etag="DYBZxKnzhp0qw9uynSct" version="14.0.3" type="github">
   <diagram id="JnUOpCwKltPgE0m3QCvf" name="Page-1">
     <mxGraphModel dx="1242" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="140" y="120" width="120" height="420" as="geometry" />
         </mxCell>
         <mxCell id="ag414TaRElATsdjeowkR-44" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="120" width="140" height="420" as="geometry" />
+          <mxGeometry x="280" y="120.1" width="140" height="420" as="geometry" />
         </mxCell>
         <mxCell id="ag414TaRElATsdjeowkR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="240" height="420" as="geometry" />
@@ -40,8 +40,8 @@
         <mxCell id="ag414TaRElATsdjeowkR-22" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;vSAN&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="738.6" y="467" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ag414TaRElATsdjeowkR-23" value="VMware VCF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="810" y="520" width="70" height="20" as="geometry" />
+        <mxCell id="ag414TaRElATsdjeowkR-23" value="CWD VMware VCF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="810" y="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag414TaRElATsdjeowkR-24" value="vCenter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="820" y="140" width="40" height="20" as="geometry" />
@@ -126,6 +126,15 @@
         </mxCell>
         <mxCell id="ag414TaRElATsdjeowkR-62" value="WAN accelerator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="319.7" y="342.95" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ag414TaRElATsdjeowkR-64" value="&lt;div&gt;CWD&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="359.7" y="520" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ag414TaRElATsdjeowkR-65" value="&lt;div&gt;CWD&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="359.7" y="520" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ag414TaRElATsdjeowkR-66" value="SPD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
