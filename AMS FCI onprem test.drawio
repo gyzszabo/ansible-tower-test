@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T13:34:20.263Z" agent="5.0 (Windows)" etag="RcpNojvDDQG5v1c1rMse" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T13:41:12.733Z" agent="5.0 (Windows)" etag="mBXzDxvas95AM7gOPuk0" version="14.2.9" type="github">
   <diagram id="eCVy08CxGXI3JQdQnOXs" name="Page-1">
-    <mxGraphModel dx="1278" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="467" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,8 @@
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-36" value="&lt;div&gt;WAN accelerator&lt;/div&gt;&lt;div&gt;local&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="675" y="421.2" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nSwSoQBOyBosfwL_0Ycv-16" value="Veeam Proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="682.5" y="222.6" width="40" height="20" as="geometry" />
+        <mxCell id="nSwSoQBOyBosfwL_0Ycv-16" value="Veeam Proxy" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="650" y="236" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-76" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#E6D0DE;fillColor=#E6D0DE;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="295" y="217" width="106.9" height="250" as="geometry" />
@@ -211,10 +211,20 @@
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-45" value="Veeam repo remote" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="983.6" y="44.1" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-1" value="" style="shape=link;html=1;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="530" y="330" as="sourcePoint" />
-            <mxPoint x="630" y="330" as="targetPoint" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-7" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="372" as="sourcePoint" />
+            <mxPoint x="489" y="322" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="247" y="184" />
+              <mxPoint x="703" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g7LeK_lGC8_cofLlaaue-8" value="" style="endArrow=none;html=1;entryX=0;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.775;exitY=0.354;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-9" target="nSwSoQBOyBosfwL_0Ycv-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="723" y="269" as="sourcePoint" />
+            <mxPoint x="769" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
