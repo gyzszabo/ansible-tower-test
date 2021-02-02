@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T12:32:41.137Z" agent="5.0 (Windows)" etag="PpDe43z7krTvNGY3nUEc" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T12:42:47.931Z" agent="5.0 (Windows)" etag="oEezFvAaE2rr_INpF-v6" version="14.2.9" type="github">
   <diagram id="eCVy08CxGXI3JQdQnOXs" name="Page-1">
-    <mxGraphModel dx="660" dy="305" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="636" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,10 +59,10 @@
           <mxGeometry x="76.7" y="599.9" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-54" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.proxy_appliance;" parent="1" vertex="1">
-          <mxGeometry x="511" y="254" width="44.8" height="44.8" as="geometry" />
+          <mxGeometry x="511" y="266" width="44.8" height="44.8" as="geometry" />
         </mxCell>
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-55" value="&lt;div&gt;pfsense fw server&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="495" y="318" width="82" height="20" as="geometry" />
+          <mxGeometry x="465" y="318" width="129" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-56" value="Central actor" style="text;html=1;strokeColor=none;fillColor=#E6D0DE;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="650" width="80" height="20" as="geometry" />
@@ -242,13 +242,13 @@
             <mxPoint x="836" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-16" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.518;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;jumpSize=6;exitX=0.73;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-61">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-16" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.518;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;jumpSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="249" y="325" as="sourcePoint" />
-            <mxPoint x="516" y="281" as="targetPoint" />
+            <mxPoint x="263" y="327" as="sourcePoint" />
+            <mxPoint x="698.4742000000001" y="214" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="263" y="164" />
-              <mxPoint x="698" y="164" />
+              <mxPoint x="263" y="165" />
+              <mxPoint x="698" y="165" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -293,14 +293,14 @@
             <mxPoint x="428" y="282" as="sourcePoint" />
             <mxPoint x="478" y="232" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="247" y="151" />
-              <mxPoint x="720" y="151" />
+              <mxPoint x="242" y="141" />
+              <mxPoint x="720" y="141" />
               <mxPoint x="720" y="86" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-24" value="Port: 443, 10443" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="733" y="596" width="137" height="20" as="geometry" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-24" value="Port: 443/TCP, 10443/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="406" y="599" width="196" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g7LeK_lGC8_cofLlaaue-25" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" target="nSwSoQBOyBosfwL_0Ycv-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -311,8 +311,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-26" value="Port: 443, 902, 22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="749" y="533" width="114" height="20" as="geometry" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-26" value="Port: 443/TCP, 902/TCP, 22/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="415" y="533" width="206" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g7LeK_lGC8_cofLlaaue-27" value="Port: 135/TCP, 137-139/UDP, 445/UDP " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="409" y="124" width="243" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g7LeK_lGC8_cofLlaaue-28" value="Port: 135/TCP, 137-139/UDP, 445/UDP " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="409" y="147" width="243" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
