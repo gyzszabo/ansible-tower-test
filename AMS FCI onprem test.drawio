@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T14:21:18.963Z" agent="5.0 (Windows)" etag="r2gOZdWXY_mhs04KBBzj" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T15:33:39.514Z" agent="5.0 (Windows)" etag="x72QZBXnDroAp2Ynps6w" version="14.2.9" type="github">
   <diagram id="eCVy08CxGXI3JQdQnOXs" name="Page-1">
-    <mxGraphModel dx="1359" dy="763" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="401" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,13 +152,13 @@
           <mxGeometry x="301.09999999999997" y="44.10000000000002" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sAKAlEn9Oh-eBW5LbcHO-14" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.flr_helper_appliance;" parent="1" vertex="1">
-          <mxGeometry x="868.8" y="152.7" width="49.6" height="50" as="geometry" />
+          <mxGeometry x="833.12" y="148.7" width="49.6" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sAKAlEn9Oh-eBW5LbcHO-15" value="Veeam FLR helper" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="840.6800000000001" y="132" width="40" height="20" as="geometry" />
+          <mxGeometry x="805.0000000000001" y="128" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sAKAlEn9Oh-eBW5LbcHO-16" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.virtual_machine;" parent="1" vertex="1">
-          <mxGeometry x="895.3" y="180.8" width="23.1" height="21.9" as="geometry" />
+          <mxGeometry x="861" y="177" width="23.1" height="21.9" as="geometry" />
         </mxCell>
         <mxCell id="sAKAlEn9Oh-eBW5LbcHO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sAKAlEn9Oh-eBW5LbcHO-11" target="sAKAlEn9Oh-eBW5LbcHO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -358,6 +358,12 @@
         </mxCell>
         <mxCell id="g7LeK_lGC8_cofLlaaue-35" value="&lt;div&gt;&lt;span&gt;Guest Processing for Windows-Based VMs:&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Ports: [135,137-139,445]/TCP,UDP &lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="446" y="479" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g7LeK_lGC8_cofLlaaue-36" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.mount_server;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="903" y="138" width="76" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="g7LeK_lGC8_cofLlaaue-37" value="Veeam Mount server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="890.0000000000001" y="126" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
