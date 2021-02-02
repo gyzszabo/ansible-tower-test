@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T12:48:33.999Z" agent="5.0 (Windows)" etag="u1FFeOnZCC8XJzHjj3H7" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T13:37:34.951Z" agent="5.0 (Windows)" etag="dd2tMQlSfpIo6ZTX8X9I" version="14.2.9" type="github">
   <diagram id="eCVy08CxGXI3JQdQnOXs" name="Page-1">
     <mxGraphModel dx="1375" dy="636" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -314,14 +314,8 @@
         <mxCell id="g7LeK_lGC8_cofLlaaue-26" value="Port: 443/TCP, 902/TCP, 22/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="415" y="533" width="206" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-27" value="Port: [135,137-139,445]/TCP,UDP " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="409" y="124" width="243" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-28" value="Port: [135,137-139,445]/TCP,UDP " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="409" y="148" width="243" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-29" value="&lt;span&gt;deploying the Distribution Server component&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="447" y="162" width="184" height="24" as="geometry" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-29" value="&lt;div&gt;&lt;span&gt;- Deploying the Distribution Server component:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; Ports: [135,137-139,445]/TCP,UDP &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- &lt;/span&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;Microsoft Windows Server Connections:&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&amp;nbsp; Ports: [&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;500 to 3300,&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;6160,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;6161,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;6162&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;]/TCP&lt;br&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="443" y="168" width="184" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
