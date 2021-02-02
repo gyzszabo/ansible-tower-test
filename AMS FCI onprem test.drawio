@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T21:57:50.519Z" agent="5.0 (Windows)" etag="hx4IyG-4unumlRbm1rHw" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T22:01:53.461Z" agent="5.0 (Windows)" etag="UqQ1B-EmcpPvNQDT6psr" version="14.2.9" type="github">
   <diagram id="eCVy08CxGXI3JQdQnOXs" name="Page-1">
     <mxGraphModel dx="571" dy="679" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -227,13 +227,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=-0.021;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sAKAlEn9Oh-eBW5LbcHO-19">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=1.004;exitY=0.266;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="sAKAlEn9Oh-eBW5LbcHO-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="786" y="347" as="sourcePoint" />
-            <mxPoint x="751" y="372" as="targetPoint" />
+            <mxPoint x="751" y="372" as="sourcePoint" />
+            <mxPoint x="786" y="347" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="798" y="249" />
               <mxPoint x="798" y="78" />
-              <mxPoint x="798" y="372" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -330,9 +330,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-31" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=1.028;exitY=0.288;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.579;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-4">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-31" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.579;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.997;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="725" y="440" as="sourcePoint" />
+            <mxPoint x="753" y="261" as="sourcePoint" />
             <mxPoint x="893" y="608" as="targetPoint" />
             <Array as="points">
               <mxPoint x="788" y="294" />
@@ -453,7 +453,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g7LeK_lGC8_cofLlaaue-57" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="438" y="73" width="121" height="20" as="geometry" />
+          <mxGeometry x="828" y="21" width="121" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g7LeK_lGC8_cofLlaaue-58" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="828" y="61" width="121" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
