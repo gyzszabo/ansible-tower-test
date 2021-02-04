@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T15:55:09.531Z" agent="5.0 (Windows)" etag="IhVfC15Q7EuabCmCM32M" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T16:02:47.249Z" agent="5.0 (Windows)" etag="QxDR8fokurdCuGN4PGUK" version="14.2.9" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="1157" dy="767" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="785" dy="521" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote site" id="1">
@@ -228,10 +228,10 @@
             <mxPoint x="641" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCxuNIcvKfxnNHs4IzGK-103" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-103" value="" style="endArrow=classic;html=1;strokeWidth=5;fillColor=#60a917;strokeColor=#99FF99;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="611" y="475" as="sourcePoint" />
-            <mxPoint x="554" y="475" as="targetPoint" />
+            <mxPoint x="615" y="475" as="sourcePoint" />
+            <mxPoint x="548" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-106" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
@@ -258,6 +258,25 @@
             <Array as="points">
               <mxPoint x="721" y="212" />
               <mxPoint x="721" y="638" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-110" value="" style="endArrow=none;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" target="hCxuNIcvKfxnNHs4IzGK-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="848" as="sourcePoint" />
+            <mxPoint x="226" y="848" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-111" value="backup job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry x="194" y="838" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-112" value="" style="endArrow=classic;html=1;strokeWidth=5;fillColor=#60a917;strokeColor=#99FF99;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="573" as="sourcePoint" />
+            <mxPoint x="548" y="503" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="552" />
+              <mxPoint x="580" y="503" />
             </Array>
           </mxGeometry>
         </mxCell>
