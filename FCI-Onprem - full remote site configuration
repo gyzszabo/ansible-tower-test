@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T16:47:09.636Z" agent="5.0 (Windows)" etag="66fazkafOHBnBA2ZsBhF" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T16:49:02.494Z" agent="5.0 (Windows)" etag="GIOH07XWgeipIBHDb8Z9" version="14.2.9" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="1575" dy="858" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="1090" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote site" id="1">
@@ -240,8 +240,8 @@
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-120" value="&lt;div&gt;BLOB&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="181" y="178.00000000000003" width="40.51" height="23.84" as="geometry" />
         </mxCell>
-        <mxCell id="hCxuNIcvKfxnNHs4IzGK-121" value="Cloud" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="181.99999999999997" y="243" width="42.84" height="24.01" as="geometry" />
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-121" value="Cloud Gatway" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="243" width="99" height="24.01" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-124" value="" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.cloud;fontColor=#ffffff;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="117" y="321" width="45.8" height="28" as="geometry" />
