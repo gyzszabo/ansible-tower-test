@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T15:40:44.518Z" agent="5.0 (Windows)" etag="AwUi1A0d4UhYFLgrINmN" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T15:55:09.531Z" agent="5.0 (Windows)" etag="IhVfC15Q7EuabCmCM32M" version="14.2.9" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="2435" dy="1325" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="767" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote site" id="1">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;strokeColor=#d79b00;fillColor=#E3CDB6;" vertex="1" parent="1">
           <mxGeometry x="52.00500000000001" y="144.57500000000002" width="688.97" height="905.5" as="geometry" />
@@ -217,11 +217,59 @@
           <mxGeometry x="957.0000000000001" y="967" width="85.85" height="20" as="geometry" />
         </mxCell>
         <object label="Central site" id="hCxuNIcvKfxnNHs4IzGK-67">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <object label="Backup flow" id="hCxuNIcvKfxnNHs4IzGK-52">
           <mxCell style="" parent="0" />
         </object>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-102" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="641" y="216" as="sourcePoint" />
+            <mxPoint x="641" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-103" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="611" y="475" as="sourcePoint" />
+            <mxPoint x="554" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-106" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="637" y="527" as="sourcePoint" />
+            <mxPoint x="423" y="645" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="637" y="570" />
+              <mxPoint x="463" y="570" />
+              <mxPoint x="463" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-107" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="647" as="sourcePoint" />
+            <mxPoint x="249" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-108" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="212" as="sourcePoint" />
+            <mxPoint x="681" y="638" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="721" y="212" />
+              <mxPoint x="721" y="638" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-109" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603" y="641" as="sourcePoint" />
+            <mxPoint x="580" y="568" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <object label="Restore flow" id="hCxuNIcvKfxnNHs4IzGK-58">
           <mxCell parent="0" />
         </object>
