@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T16:49:02.494Z" agent="5.0 (Windows)" etag="GIOH07XWgeipIBHDb8Z9" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T16:53:26.714Z" agent="5.0 (Windows)" etag="Ud8c5JsPLtv9UpGTJRl-" version="14.2.9" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="2357" dy="1090" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="898" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote site" id="1">
@@ -249,6 +249,9 @@
         <object label="Central site" id="hCxuNIcvKfxnNHs4IzGK-67">
           <mxCell style="locked=1;" parent="0" />
         </object>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-142" value="Many to One" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="hCxuNIcvKfxnNHs4IzGK-67">
+          <mxGeometry x="1000" y="816" width="92" height="20" as="geometry" />
+        </mxCell>
         <object label="Backup flow" id="hCxuNIcvKfxnNHs4IzGK-52">
           <mxCell style="locked=1;" parent="0" />
         </object>
@@ -401,6 +404,15 @@
               <mxPoint x="1168" y="655" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-140" value="" style="endArrow=none;html=1;strokeColor=#001DBC;strokeWidth=5;fillColor=#0050ef;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" target="hCxuNIcvKfxnNHs4IzGK-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="117" y="881.9999999999998" as="sourcePoint" />
+            <mxPoint x="189" y="882" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-141" value="backup copy job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxGeometry x="157" y="872" width="101" height="20" as="geometry" />
         </mxCell>
         <object label="Restore flow" id="hCxuNIcvKfxnNHs4IzGK-58">
           <mxCell parent="0" />
