@@ -1,147 +1,228 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T15:20:47.915Z" agent="5.0 (Windows)" etag="KeY5aUOaoIL3TFKfoDyA" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T15:40:44.518Z" agent="5.0 (Windows)" etag="AwUi1A0d4UhYFLgrINmN" version="14.2.9" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="1465" dy="972" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="1325" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote site" id="1">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;strokeColor=#d79b00;fillColor=#E3CDB6;" vertex="1" parent="1">
-          <mxGeometry x="169.995" y="142.00500000000002" width="688.97" height="905.5" as="geometry" />
+          <mxGeometry x="52.00500000000001" y="144.57500000000002" width="688.97" height="905.5" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-45" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;strokeColor=#d79b00;fillColor=#EDD6BE;" vertex="1" parent="1">
-          <mxGeometry x="193.17" y="120.25" width="688.97" height="905.5" as="geometry" />
+          <mxGeometry x="75.17999999999999" y="122.82" width="688.97" height="905.5" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="216.54" y="98.43" width="688.97" height="905.5" as="geometry" />
+          <mxGeometry x="98.55" y="101" width="688.97" height="905.5" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="255.9" y="413.3899999999999" width="120" height="275.59" as="geometry" />
+          <mxGeometry x="137.91000000000003" y="415.95999999999987" width="120" height="275.59" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-18" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.shared_folder;" vertex="1" parent="1">
-          <mxGeometry x="298.15" y="466.5999999999999" width="35.51" height="44.32" as="geometry" />
+          <mxGeometry x="180.15999999999997" y="469.1699999999999" width="35.51" height="44.32" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-20" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.remote_repository;" vertex="1" parent="1">
-          <mxGeometry x="288.3" y="590.55" width="55.2" height="46.4" as="geometry" />
+          <mxGeometry x="170.31" y="593.12" width="55.2" height="46.4" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="393.7" y="118.11" width="472.44" height="807.08" as="geometry" />
+          <mxGeometry x="275.71" y="120.68" width="472.44" height="807.08" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="1">
-          <mxGeometry x="472.44" y="157.48" width="324.53" height="236.02" as="geometry" />
+          <mxGeometry x="354.45" y="160.04999999999998" width="324.53" height="236.02" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="698.97" y="413.39" width="120" height="433.07" as="geometry" />
+          <mxGeometry x="580.98" y="415.96" width="120" height="433.07" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.proxy_server;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="720.97" y="450" width="76" height="72" as="geometry" />
+          <mxGeometry x="602.98" y="452.57" width="76" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="433.07" y="413.39" width="255.9" height="137.79" as="geometry" />
+          <mxGeometry x="315.08" y="415.96" width="255.9" height="137.79" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.repository_server;" vertex="1" parent="1">
-          <mxGeometry x="596.71" y="450" width="76" height="72" as="geometry" />
+          <mxGeometry x="478.72" y="452.57" width="76" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-19" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.local_disk;" vertex="1" parent="1">
-          <mxGeometry x="485.60999999999996" y="452.90000000000003" width="49.66" height="58.21" as="geometry" />
+          <mxGeometry x="367.61999999999995" y="455.47" width="49.66" height="58.21" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-24" value="SMB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="295.90999999999997" y="450.76" width="40" height="20" as="geometry" />
+          <mxGeometry x="177.91999999999996" y="453.33" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-25" value="NFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="295.9" y="570.55" width="40" height="20" as="geometry" />
+          <mxGeometry x="177.90999999999997" y="573.12" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-26" value="External storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="272.32000000000005" y="662.23" width="87.17" height="20" as="geometry" />
+          <mxGeometry x="154.33000000000004" y="664.8000000000001" width="87.17" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-32" value="Proxy server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="717.79" y="430" width="79.18" height="20" as="geometry" />
+          <mxGeometry x="599.8" y="432.57" width="79.18" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-33" value="Repository" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="295.65999999999997" y="416.39" width="40" height="20" as="geometry" />
+          <mxGeometry x="177.66999999999996" y="418.96" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-34" value="Local storage" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516.29" y="522" width="98.42" height="39.37" as="geometry" />
+          <mxGeometry x="398.29999999999995" y="524.5699999999999" width="98.42" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-35" value="Repository" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="535.27" y="416.39" width="40" height="20" as="geometry" />
+          <mxGeometry x="417.28" y="418.96" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-7" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.built_in_wan_acceleration;" vertex="1" parent="1">
-          <mxGeometry x="727.6700000000001" y="610.2299999999999" width="53.03" height="59.05" as="geometry" />
+          <mxGeometry x="611.0100000000001" y="749.8" width="53.03" height="59.05" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-8" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.service;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="720.97" y="748.0199999999999" width="66.43" height="61.92" as="geometry" />
+          <mxGeometry x="603.32" y="607.5699999999999" width="66.43" height="61.92" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-30" value="Guest interaction " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="708.66" y="728.02" width="98.42" height="20" as="geometry" />
+          <mxGeometry x="591.01" y="587.57" width="98.42" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-31" value="WAN accelerator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="734.19" y="585" width="40" height="20" as="geometry" />
+          <mxGeometry x="617.5300000000001" y="724.57" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="433.07" y="570.8599999999999" width="255.9" height="275.59" as="geometry" />
+          <mxGeometry x="315.08" y="573.43" width="255.9" height="275.59" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-4" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.veeam_backup_and_replication_server;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="596.71" y="610.2299999999999" width="76" height="72" as="geometry" />
+          <mxGeometry x="410.01" y="750.5699999999999" width="76" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-9" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.mount_server;" vertex="1" parent="1">
-          <mxGeometry x="535" y="748.02" width="76" height="72" as="geometry" />
+          <mxGeometry x="466.01" y="610.57" width="76" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.gateway_server;" vertex="1" parent="1">
-          <mxGeometry x="472.44" y="610.2299999999999" width="76" height="72" as="geometry" />
+          <mxGeometry x="354.45" y="612.8" width="76" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-27" value="VBR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="614.71" y="590.23" width="40" height="20" as="geometry" />
+          <mxGeometry x="428.01" y="728.57" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-28" value="Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490.44" y="590.23" width="40" height="20" as="geometry" />
+          <mxGeometry x="372.45" y="592.8000000000001" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-29" value="Mount server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="728.02" width="80.43" height="20" as="geometry" />
+          <mxGeometry x="466.01" y="590.57" width="80.43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-39" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" vertex="1" parent="1">
-          <mxGeometry x="697.97" y="820.02" width="37.39" height="35.54" as="geometry" />
+          <mxGeometry x="579.98" y="822.59" width="37.39" height="35.54" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-40" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" vertex="1" parent="1">
-          <mxGeometry x="432.05" y="820.02" width="37.39" height="35.54" as="geometry" />
+          <mxGeometry x="314.06" y="822.59" width="37.39" height="35.54" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-41" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" vertex="1" parent="1">
-          <mxGeometry x="431.04499999999996" y="525.8349999999999" width="37.39" height="35.54" as="geometry" />
+          <mxGeometry x="313.05499999999995" y="528.405" width="37.39" height="35.54" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-42" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux;" vertex="1" parent="1">
-          <mxGeometry x="235.16000000000003" y="669.28" width="34" height="34" as="geometry" />
+          <mxGeometry x="117.17000000000002" y="671.85" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-47" value="Remote site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="728.34" y="964.56" width="85.85" height="20" as="geometry" />
+          <mxGeometry x="610.35" y="967.13" width="85.85" height="20" as="geometry" />
         </mxCell>
-        <object label="Backup flow" id="hCxuNIcvKfxnNHs4IzGK-52">
-          <mxCell parent="0" />
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="921" y="112" width="688.97" height="905.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1453.7400000000002" y="431.9999999999999" width="120" height="275.59" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-70" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.shared_folder;" vertex="1" parent="1">
+          <mxGeometry x="1495.99" y="485.2099999999999" width="35.51" height="44.32" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-71" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.remote_repository;" vertex="1" parent="1">
+          <mxGeometry x="1486.1399999999999" y="609.16" width="55.2" height="46.4" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-72" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="953.0000000000001" y="130" width="472.44" height="807.08" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-73" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="1">
+          <mxGeometry x="1031.74" y="169.36999999999998" width="324.53" height="236.02" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-74" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="991" y="427" width="120" height="433.07" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-75" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.proxy_server;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="463.61" width="76" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-76" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1123.02" y="429" width="255.9" height="137.79" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-77" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.repository_server;" vertex="1" parent="1">
+          <mxGeometry x="1286.66" y="465.61" width="76" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-78" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.local_disk;" vertex="1" parent="1">
+          <mxGeometry x="1175.56" y="468.51" width="49.66" height="58.21" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-79" value="SMB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1493.75" y="469.37" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-80" value="NFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1493.74" y="589.16" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-81" value="External storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1470.16" y="680.84" width="87.17" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-82" value="Proxy server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1009.8199999999999" y="443.61" width="79.18" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-83" value="Repository" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1493.5" y="435" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-84" value="Local storage" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1206.24" y="537.61" width="98.42" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-85" value="Repository" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1225.22" y="432" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-86" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.built_in_wan_acceleration;" vertex="1" parent="1">
+          <mxGeometry x="1021.03" y="760.84" width="53.03" height="59.05" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-87" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.service;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1013.3399999999999" y="618.61" width="66.43" height="61.92" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-88" value="Guest interaction " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1001.03" y="598.6100000000001" width="98.42" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-89" value="WAN accelerator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1027.55" y="735.6100000000001" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-90" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1123.02" y="586.47" width="255.9" height="275.59" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-91" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.veeam_backup_and_replication_server;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="1217.95" y="763.61" width="76" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-92" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.mount_server;" vertex="1" parent="1">
+          <mxGeometry x="1273.95" y="623.6100000000001" width="76" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-93" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.gateway_server;" vertex="1" parent="1">
+          <mxGeometry x="1162.39" y="625.84" width="76" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-94" value="VBR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1235.95" y="741.6100000000001" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-95" value="Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1180.39" y="605.8400000000001" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-96" value="Mount server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1273.95" y="603.6100000000001" width="80.43" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-97" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" vertex="1" parent="1">
+          <mxGeometry x="990" y="833.6300000000001" width="37.39" height="35.54" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-98" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="835.6300000000001" width="37.39" height="35.54" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-99" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" vertex="1" parent="1">
+          <mxGeometry x="1120.9950000000003" y="541.445" width="37.39" height="35.54" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-100" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="687.89" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-101" value="Central site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="957.0000000000001" y="967" width="85.85" height="20" as="geometry" />
+        </mxCell>
+        <object label="Central site" id="hCxuNIcvKfxnNHs4IzGK-67">
+          <mxCell style="" parent="0" />
         </object>
-        <mxCell id="hCxuNIcvKfxnNHs4IzGK-54" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;entryX=0.588;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-1" target="hCxuNIcvKfxnNHs4IzGK-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="514" y="701" as="sourcePoint" />
-            <mxPoint x="564" y="651" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hCxuNIcvKfxnNHs4IzGK-55" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-5" target="hCxuNIcvKfxnNHs4IzGK-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="514" y="701" as="sourcePoint" />
-            <mxPoint x="564" y="651" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hCxuNIcvKfxnNHs4IzGK-56" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-12" target="hCxuNIcvKfxnNHs4IzGK-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="514" y="701" as="sourcePoint" />
-            <mxPoint x="564" y="651" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hCxuNIcvKfxnNHs4IzGK-57" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-5" target="hCxuNIcvKfxnNHs4IzGK-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="514" y="701" as="sourcePoint" />
-            <mxPoint x="564" y="651" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <object label="Restore" id="hCxuNIcvKfxnNHs4IzGK-58">
+        <object label="Backup flow" id="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxCell style="" parent="0" />
+        </object>
+        <object label="Restore flow" id="hCxuNIcvKfxnNHs4IzGK-58">
           <mxCell parent="0" />
         </object>
       </root>
