@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T14:46:20.148Z" agent="5.0 (Windows)" etag="BNmJF2xCoIbqc0GQYu7Y" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T15:20:47.915Z" agent="5.0 (Windows)" etag="KeY5aUOaoIL3TFKfoDyA" version="14.2.9" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="1880" dy="972" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1465" dy="972" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote site" id="1">
@@ -85,7 +85,7 @@
           <mxGeometry x="596.71" y="610.2299999999999" width="76" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-9" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.mount_server;" vertex="1" parent="1">
-          <mxGeometry x="472.44" y="748.02" width="76" height="72" as="geometry" />
+          <mxGeometry x="535" y="748.02" width="76" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.gateway_server;" vertex="1" parent="1">
           <mxGeometry x="472.44" y="610.2299999999999" width="76" height="72" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="490.44" y="590.23" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-29" value="Mount server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="472.44" y="728.02" width="80.43" height="20" as="geometry" />
+          <mxGeometry x="535" y="728.02" width="80.43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-39" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" vertex="1" parent="1">
           <mxGeometry x="697.97" y="820.02" width="37.39" height="35.54" as="geometry" />
@@ -115,6 +115,33 @@
           <mxGeometry x="728.34" y="964.56" width="85.85" height="20" as="geometry" />
         </mxCell>
         <object label="Backup flow" id="hCxuNIcvKfxnNHs4IzGK-52">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-54" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;entryX=0.588;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-1" target="hCxuNIcvKfxnNHs4IzGK-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="701" as="sourcePoint" />
+            <mxPoint x="564" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-55" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-5" target="hCxuNIcvKfxnNHs4IzGK-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="701" as="sourcePoint" />
+            <mxPoint x="564" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-56" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-12" target="hCxuNIcvKfxnNHs4IzGK-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="701" as="sourcePoint" />
+            <mxPoint x="564" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCxuNIcvKfxnNHs4IzGK-57" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=5;strokeColor=#009900;" edge="1" parent="hCxuNIcvKfxnNHs4IzGK-52" source="hCxuNIcvKfxnNHs4IzGK-5" target="hCxuNIcvKfxnNHs4IzGK-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="701" as="sourcePoint" />
+            <mxPoint x="564" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Restore" id="hCxuNIcvKfxnNHs4IzGK-58">
           <mxCell parent="0" />
         </object>
       </root>
