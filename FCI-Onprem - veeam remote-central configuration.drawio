@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T22:04:23.545Z" agent="5.0 (Windows)" etag="CeojpN-oXUt9oy26Msod" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T08:37:59.089Z" agent="5.0 (Windows)" etag="P4sxxNZkLtids6nFTSDz" version="14.2.9" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="1941" dy="986" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2750" dy="1397" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote-Central site" id="1">
@@ -448,7 +448,7 @@
           <mxGeometry x="400" y="727" width="105" height="105" as="geometry" />
         </mxCell>
         <object label="VBR on REMOTE site and separated on CENTRAL" id="hCxuNIcvKfxnNHs4IzGK-197">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-198" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=30;" parent="hCxuNIcvKfxnNHs4IzGK-197" vertex="1">
           <mxGeometry x="387" y="727" width="120" height="115" as="geometry" />
@@ -507,8 +507,11 @@
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-217" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" parent="hCxuNIcvKfxnNHs4IzGK-197" vertex="1">
           <mxGeometry x="1467" y="903.0000000000001" width="37.39" height="35.54" as="geometry" />
         </mxCell>
+        <mxCell id="4l8e978avnJ4GxK5xlyu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="hCxuNIcvKfxnNHs4IzGK-197">
+          <mxGeometry x="1004" y="160" width="402" height="252" as="geometry" />
+        </mxCell>
         <object label="VBR on REMOTE site and integrated with CENTRAL" id="hCxuNIcvKfxnNHs4IzGK-67">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-154" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=20;" parent="hCxuNIcvKfxnNHs4IzGK-67" vertex="1">
           <mxGeometry x="387" y="727" width="120" height="115" as="geometry" />
