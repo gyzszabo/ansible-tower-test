@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T08:59:47.404Z" agent="5.0 (Windows)" etag="G5O3-NM_V91zoK6pR1Cl" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T11:54:52.492Z" agent="5.0 (Windows)" etag="WQ5HM81hSW6u8lBigYur" version="14.3.0" type="github">
   <diagram id="h3sAvr2P170l5RKoT_73" name="Page-1">
-    <mxGraphModel dx="2034" dy="1039" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2205" dy="1039" grid="0" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Remote-Central site" id="1">
@@ -259,7 +259,7 @@
           <mxGeometry x="780" y="725" width="158" height="99.54" as="geometry" />
         </mxCell>
         <object label="Backup flow" id="hCxuNIcvKfxnNHs4IzGK-52">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-102" value="" style="endArrow=classic;html=1;strokeColor=#2D7600;strokeWidth=5;fillColor=#60a917;" parent="hCxuNIcvKfxnNHs4IzGK-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -421,7 +421,7 @@
           <mxGeometry x="157" y="872" width="101" height="20" as="geometry" />
         </mxCell>
         <object label="Consolidated VBR on Central site" id="hCxuNIcvKfxnNHs4IzGK-166">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <mxCell id="hCxuNIcvKfxnNHs4IzGK-168" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" parent="hCxuNIcvKfxnNHs4IzGK-166" vertex="1">
           <mxGeometry x="577" y="719" width="120" height="115" as="geometry" />
