@@ -1,9 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T08:46:42.925Z" agent="5.0 (Windows)" etag="B8ggNb-VRTxjO3JsH3sW" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T16:50:55.312Z" agent="5.0 (Windows)" etag="Z7QwKShqoHlIF12W0Q2g" version="14.3.0" type="github">
   <diagram id="eCVy08CxGXI3JQdQnOXs" name="Page-1">
-    <mxGraphModel dx="1292" dy="1008" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1043" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <object label="basic connections " id="1">
+          <mxCell style="locked=1;" parent="0" />
+        </object>
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillColor=#FFFFFF;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-52" width="370" height="722" as="geometry" />
         </mxCell>
@@ -211,7 +213,7 @@
         <mxCell id="nSwSoQBOyBosfwL_0Ycv-45" value="Veeam repo remote" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="986" y="-33.99999999999999" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-12" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.556;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.007;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-76" target="sAKAlEn9Oh-eBW5LbcHO-17">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-12" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.556;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.007;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-76" target="sAKAlEn9Oh-eBW5LbcHO-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="398" y="430" as="sourcePoint" />
             <mxPoint x="448" y="380" as="targetPoint" />
@@ -220,14 +222,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-13" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-13" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="639" y="406" as="sourcePoint" />
             <mxPoint x="401" y="406" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=1.004;exitY=0.266;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="sAKAlEn9Oh-eBW5LbcHO-19">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=1.004;exitY=0.266;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="sAKAlEn9Oh-eBW5LbcHO-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="751" y="372" as="sourcePoint" />
             <mxPoint x="786" y="347" as="targetPoint" />
@@ -237,13 +239,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-15" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.015;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.991;exitY=0.276;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-82">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-15" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.015;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.991;exitY=0.276;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="786" y="347" as="sourcePoint" />
             <mxPoint x="836" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-16" value="" style="endArrow=classic;html=1;strokeColor=#000000;jumpSize=6;entryX=0.471;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-61">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-16" value="" style="endArrow=classic;html=1;strokeColor=#000000;jumpSize=6;entryX=0.471;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="263" y="327" as="sourcePoint" />
             <mxPoint x="698.4742000000001" y="214" as="targetPoint" />
@@ -255,11 +257,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;https://bp.veeam.com/vbr/VBP/Support/S_Vmware/backup.html&lt;/div&gt;&lt;div&gt;https://helpcenter.veeam.com/docs/backup/vsphere/used_ports.html?ver=100&lt;br&gt;&lt;/div&gt;" link="https://bp.veeam.com/vbr/VBP/Support/S_Vmware/backup.html" id="g7LeK_lGC8_cofLlaaue-17">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="333" y="686" width="458" height="52" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-18" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=1.006;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-11" target="nSwSoQBOyBosfwL_0Ycv-82">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-18" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=1.006;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-11" target="nSwSoQBOyBosfwL_0Ycv-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="668" y="400" as="sourcePoint" />
             <mxPoint x="618" y="450" as="targetPoint" />
@@ -270,7 +272,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-19" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.49;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-5" target="sAKAlEn9Oh-eBW5LbcHO-19">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-19" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.49;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-5" target="sAKAlEn9Oh-eBW5LbcHO-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="618" y="450" as="sourcePoint" />
             <mxPoint x="668" y="400" as="targetPoint" />
@@ -281,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-20" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-20" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="618" y="450" as="sourcePoint" />
             <mxPoint x="902" y="617" as="targetPoint" />
@@ -290,7 +292,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-23" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.762;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-4">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-23" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.762;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="428" y="282" as="sourcePoint" />
             <mxPoint x="478" y="232" as="targetPoint" />
@@ -301,10 +303,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-24" value="Port: 443/TCP, 10443/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-24" value="Port: 443/TCP, 10443/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="426" y="599" width="142" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-25" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-6">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-25" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="266" y="397" as="sourcePoint" />
             <mxPoint x="559" y="322" as="targetPoint" />
@@ -313,13 +315,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-26" value="Port: 443/TCP, 902/TCP, 22/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-26" value="Port: 443/TCP, 902/TCP, 22/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="439" y="537" width="137" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-29" value="&lt;div&gt;&lt;span&gt;- Deploying the Distribution Server component:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; Ports: [135,137-139,445]/TCP,UDP &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- &lt;/span&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;Microsoft Windows Server Connections:&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&amp;nbsp; Ports: [&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;2500 to 3300]/TCP&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&amp;nbsp; Ports: [&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;6160,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;6161,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;6162, 6170&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, 6190, 6290]/TCP&lt;br&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-29" value="&lt;div&gt;&lt;span&gt;- Deploying the Distribution Server component:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; Ports: [135,137-139,445]/TCP,UDP &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- &lt;/span&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;Microsoft Windows Server Connections:&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&amp;nbsp; Ports: [&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;2500 to 3300]/TCP&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&amp;nbsp; Ports: [&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;6160,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;6161,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;/a&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;6162, 6170&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, 6190, 6290]/TCP&lt;br&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;a name=&quot;ms_servers&quot;&gt;&lt;span class=&quot;Subheading&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="440" y="116" width="173" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-30" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=1.003;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-6">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-30" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=1.003;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="725" y="440" as="sourcePoint" />
             <mxPoint x="775" y="390" as="targetPoint" />
@@ -330,7 +332,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-31" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.579;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.997;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-4">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-31" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.579;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.997;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="nSwSoQBOyBosfwL_0Ycv-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="753" y="261" as="sourcePoint" />
             <mxPoint x="893" y="608" as="targetPoint" />
@@ -341,13 +343,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-32" value="Port: 443/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-32" value="Port: 443/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="789" y="590" width="98" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-33" value="Port: 902/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;rotation=15;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-33" value="Port: 902/TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="800.52" y="486.07" width="98" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-34" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.496;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-82">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-34" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.496;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="265" y="397" as="sourcePoint" />
             <mxPoint x="365" y="449" as="targetPoint" />
@@ -357,25 +359,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-35" value="&lt;div&gt;&lt;span&gt;Guest Processing for Windows-Based VMs:&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Ports: [135,137-139,445]/TCP,UDP &lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-35" value="&lt;div&gt;&lt;span&gt;Guest Processing for Windows-Based VMs:&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Ports: [135,137-139,445]/TCP,UDP &lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="448" y="509" width="194" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-36" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.mount_server;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-36" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.mount_server;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="903" y="138" width="76" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-37" value="Veeam Mount server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-37" value="Veeam Mount server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="890.0000000000001" y="126" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-40" value="Veeam Guest intera." style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-40" value="Veeam Guest intera." style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="649" y="177" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-39" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.service;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-39" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.service;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="685" y="200" width="33.2" height="33.2" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/question_help_faq_ask_question_mark-128.png;dashed=1;fillColor=#ffffff;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/question_help_faq_ask_question_mark-128.png;dashed=1;fillColor=#ffffff;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="356" y="277" width="34" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-43" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=-0.031;exitY=0.173;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sAKAlEn9Oh-eBW5LbcHO-19">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-43" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=-0.031;exitY=0.173;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sAKAlEn9Oh-eBW5LbcHO-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="767" y="153" as="sourcePoint" />
             <mxPoint x="177" y="67" as="targetPoint" />
@@ -386,22 +388,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-44" value="Port: 6164,6165/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-44" value="Port: 6164,6165/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="450" y="383" width="126" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-45" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-45" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="123" y="412" width="87" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-46" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.003;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-76">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-46" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.003;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-8" target="nSwSoQBOyBosfwL_0Ycv-76" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="322" y="336" as="sourcePoint" />
             <mxPoint x="372" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-47" value="&lt;div&gt;Port: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- 6160/TCP&lt;/div&gt;&lt;div&gt;- 6162/TCP&lt;/div&gt;&lt;div&gt;- 6164/TCP&lt;/div&gt;&lt;div&gt;(WAN acc.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-47" value="&lt;div&gt;Port: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- 6160/TCP&lt;/div&gt;&lt;div&gt;- 6162/TCP&lt;/div&gt;&lt;div&gt;- 6164/TCP&lt;/div&gt;&lt;div&gt;(WAN acc.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="224" y="293" width="59" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-48" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.512;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nSwSoQBOyBosfwL_0Ycv-61">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-48" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;entryX=0.512;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nSwSoQBOyBosfwL_0Ycv-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="218" y="394" as="sourcePoint" />
             <mxPoint x="477" y="406" as="targetPoint" />
@@ -411,10 +413,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-49" value="&lt;div&gt;Port: [6160, 6162, 6164]/TCP (WAN acc.)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-49" value="&lt;div&gt;Port: [6160, 6162, 6164]/TCP (WAN acc.)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="439" y="492" width="164" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-50" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=0.541;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-76">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-50" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=0.541;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-76" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="202" as="sourcePoint" />
             <mxPoint x="180" y="130" as="targetPoint" />
@@ -423,10 +425,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-51" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-51" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="228" y="113" width="126" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-52" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=0.629;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.993;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="sAKAlEn9Oh-eBW5LbcHO-17">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-52" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=0.629;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.993;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-61" target="sAKAlEn9Oh-eBW5LbcHO-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="284" as="sourcePoint" />
             <mxPoint x="530" y="234" as="targetPoint" />
@@ -435,13 +437,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-53" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="230" y="91" width="121" height="20" as="geometry" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-53" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="218" y="91" width="133" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-54" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="230" y="49" width="121" height="20" as="geometry" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-54" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="218" y="49" width="133" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-56" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=0.635;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.025;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nSwSoQBOyBosfwL_0Ycv-76" target="sAKAlEn9Oh-eBW5LbcHO-19">
+        <mxCell id="g7LeK_lGC8_cofLlaaue-56" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=8;exitX=0.635;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.025;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nSwSoQBOyBosfwL_0Ycv-76" target="sAKAlEn9Oh-eBW5LbcHO-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="314" y="257" as="sourcePoint" />
             <mxPoint x="364" y="207" as="targetPoint" />
@@ -452,11 +454,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-57" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="828" y="21" width="121" height="20" as="geometry" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-57" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="814" y="21" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g7LeK_lGC8_cofLlaaue-58" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="828" y="61" width="121" height="20" as="geometry" />
+        <mxCell id="g7LeK_lGC8_cofLlaaue-58" value="Port: 2500-3300/TCP (WAN acc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="818" y="61" width="131" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
